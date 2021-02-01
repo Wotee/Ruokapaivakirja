@@ -16,7 +16,7 @@
 ||Maca-jauhe | 2g
 ||Oatly kauramaito | 135g
 ||
-|| Kauraleipä itsetehty | 2 viipaletta, 60g
+|| Kauraleipä itsetehty | 60g (2 viipaletta)
 || Levite
 || Salaatti
 || Tomaatti | 4 siivua
@@ -38,3 +38,4 @@
 ||Kreatiini|5g
 |14.15|Porkkana|125g
 ||Lanttu|100g
+|10.40-15.15|Vesi|0.7l
