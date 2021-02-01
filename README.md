@@ -32,3 +32,5 @@
 ||naudan ulkofilee (grillattu) | 100g
 ||sipuli| 10g
 ||majoneesi|50g
+|11.30|Vihreä tee|2dl
+||Hunaja|1tl
