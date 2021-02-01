@@ -39,3 +39,4 @@
 |14.15|Porkkana|125g
 ||Lanttu|100g
 |10.40-15.15|Vesi|0.7l
+|16.00|||Kuntopyörä vedot 3x3x30sek @ 90%
