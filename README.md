@@ -34,3 +34,5 @@
 ||majoneesi|50g
 |11.30|Vihreä tee|2dl
 ||Hunaja|1tl
+|13.00|Vesi|2dl
+||Kreatiini|5g
