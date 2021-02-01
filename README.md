@@ -25,3 +25,10 @@
 ||
 || Kahvi 200g
 || Oatly iKaffe 50g
+|6.40-10.40| Vesi | 0.7l
+|11.00|pitaleipä|2 kpl
+||avokado|25g
+||salaatti (kurkku, tomaatti, lehtisalaatti)|150g
+||naudan ulkofilee (grillattu) | 100g
+||sipuli| 10g
+||majoneesi|50g
