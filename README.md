@@ -24,4 +24,4 @@
 || Violife block "juusto" | 14g
 ||
 || Kahvi 200g
-|| Oatly iKaffe 50ga
+|| Oatly iKaffe 50g
