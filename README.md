@@ -36,3 +36,5 @@
 ||Hunaja|1tl
 |13.00|Vesi|2dl
 ||Kreatiini|5g
+|14.15|Porkkana|125g
+||Lanttu|100g
