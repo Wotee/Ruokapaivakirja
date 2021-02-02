@@ -84,3 +84,5 @@
 ||Vesi|200g
 |12.30|Vihreä tee|3dl
 ||Hunaja|1tl
+|14.10|Lanttu|215g
+||Porkkana|185g
