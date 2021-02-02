@@ -91,3 +91,4 @@
 ||punajuuri-mustapapupyörykkä|185g|
 |17.15|Vesi|2dl
 ||Kreatiini|5g
+|17.30|||Käsipuntti
