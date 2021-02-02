@@ -77,3 +77,10 @@
 || Kahvi | 180g
 || Oatly iKaffe | 80g
 |6.45-10.45|Vesi|0.7l
+|11.30|Kylmäsavulohi|100g
+||Salaatti (porkkana, kirsikkatomaatti, ruustinnan salaatti, parsakaalisilmusalaatti) | 140g
+||Avokado|65g
+||Nuudeli|55g
+||Vesi|200g
+|12.30|Vihreä tee|3dl
+||Hunaja|1tl
