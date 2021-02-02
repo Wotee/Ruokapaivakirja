@@ -17,7 +17,7 @@
 ||Oatly kauramaito | 135g
 ||
 || Kauraleipä itsetehty | 60g (2 viipaletta)
-|| Levite
+|| Levite | 2tl
 || Salaatti
 || Tomaatti | 4 siivua
 || Kurkku | 8 siivua
@@ -40,3 +40,39 @@
 ||Lanttu|100g
 |10.40-15.15|Vesi|0.7l
 |16.00|||Kuntopyörä vedot 3x3x30sek @ 90%
+|16.45|Riisinuudeli|55g
+||Vesi|275g
+||Kylmäsavulohi|70g
+||Salaatti (porkkana, kirsikkatomaatti, ruustinnan salaatti, parsakaalisilmusalaatti) | 160g
+|18.00|Fazer dallaspulla | 1kpl
+|19.00|Fazer dallapulla| 1kpl
+||Vihreä tee|2dl
+||Hunaja|1tl
+|21.00|Kauraleipä|45g
+||levite|1tl|
+||kylmäsavulohi|25g
+||Valio Oddlygood kauragurtti mango|80g
+||Pellavansiemenrouhe|3g
+||Kaakaonibs|3g
+||Mulperimarja|10g
+|6.45|||Aamulenkki 30min
+|7.40|Vesi|2dl
+||MSM|4g
+||Kreatiini|5g
+||Berocca|1 kpl
+||Tuorepuuro:
+||Kaurahiutale| 18g
+||Chiasiemeniä | 13g
+||Tummaa kaakaojauhetta | 3g
+||Banaani | 45g (0,5kpl)
+||Maca-jauhe | 2g
+||Oatly kauramaito | 165g
+||Vadelma|15g
+||Kauraleipä | 40g
+|| Levite | 1tl
+|| Salaatti
+|| Tomaatti | 4 siivua
+|| Kurkku | 8 siivua
+|| Violife block "juusto" | 13g
+|| Kahvi | 180g
+|| Oatly iKaffe | 80g
