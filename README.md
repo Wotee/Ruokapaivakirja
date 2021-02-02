@@ -76,3 +76,4 @@
 || Violife block "juusto" | 13g
 || Kahvi | 180g
 || Oatly iKaffe | 80g
+|6.45-10.45|Vesi|0.7l
