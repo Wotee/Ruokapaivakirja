@@ -86,3 +86,8 @@
 ||Hunaja|1tl
 |14.10|Lanttu|215g
 ||Porkkana|185g
+|15.45|peruna|115g
+||pikkelöity punakaali|90g|
+||punajuuri-mustapapupyörykkä|185g|
+|17.15|Vesi|2dl
+||Kreatiini|5g
