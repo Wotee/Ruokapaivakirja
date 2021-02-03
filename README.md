@@ -130,3 +130,4 @@
 |10.00-13.00|Vesi|0.7l
 |13.30|Kahvi| 180g
 ||Oatly iKaffe | 60g
+|14.30|Porkkana|40g
