@@ -126,4 +126,7 @@
 ||Sambal oelek|10g
 ||Salaatti (Valkoisia papuja, kirsikkatomaatteja, maissia, ruustinnan salaatti, 2 valkosipulin kynttä, 2rkl punaviinietikka)|180g
 |12.00|Vihreä tee|2dl
-||Hunaja|1tl
+||Hunaja|1tl|
+|10.00-13.00|Vesi|0.7l
+|13.30|Kahvi| 180g
+||Oatly iKaffe | 60g
