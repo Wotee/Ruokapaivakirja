@@ -92,3 +92,31 @@
 |17.15|Vesi|2dl
 ||Kreatiini|5g
 |17.30|||Käsipuntti
+|19.15|Vesi|2dl
+||Kreatiini|5g
+|19.45|Ruispala|1kpl
+||Kylmäsavulohi|35g
+|10.45-20.00|Vesi|0.7l
+|20.30|Munakas (2 keltuaista, 4 valkuaista)|175g
+|21.45|Kauraleipä|35g
+||Kylmäsavulohi|15g
+|7.30|Vesi|2dl
+||MSM|4g
+||Kreatiini|5g
+||Berocca|1 kpl
+||Tuorepuuro:
+||Kaurahiutale| 18g
+||Chiasiemeniä | 13g
+||Tummaa kaakaojauhetta | 3g
+||Banaani | 45g (0,5kpl)
+||Maca-jauhe | 2g
+||Oatly kauramaito | 160g
+||Vadelma|15g
+||Kauraleipä | 40g
+|| Levite | 1tl
+|| Salaatti
+|| Tomaatti | 4 siivua
+|| Kurkku | 8 siivua
+|| Violife block "juusto" | 11g
+|| Kahvi | 180g
+|| Oatly iKaffe | 70g
