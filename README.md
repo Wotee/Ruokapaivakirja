@@ -131,3 +131,24 @@
 |13.30|Kahvi| 180g
 ||Oatly iKaffe | 60g
 |14.30|Porkkana|40g
+|15.45|Pilahvi:
+||Katkarapu|45g
+||Riisi|1dl
+||Kanaliemi|2dl
+||Porkkana|1kpl
+||Pistaasi|15g
+||Valkosipulin kynsi|1kpl
+||Lehtipersilja|0,25 punttia
+||Kevätsipuli|0,5kpl
+||Oat fraiche (Oatly)|35g
+||
+||
+|17.00|Vesi|2dl
+||Kreatiini|5g
+|18.00|||Jalkapuntti
+|13.00-18.30|Vesi|0.7l
+|21.00|Vesi|2dl
+||Kreatiini|5g
+|21.45|Ruispala|1kpl
+||Kylmäsavulohi|30g
+|18.30-21.45|Vesi|0.4l
