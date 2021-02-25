@@ -23,3 +23,18 @@
 || Kahvi 200g
 || Oatly iKaffe 50g
 |6.40-10.00|Vesi|0.7l
+|11.50|Uunikasvikset:
+||Bataatti |110g
+||Munakoiso |68g
+||Porkkana |65g
+||Keltajuuri |92g
+||Ruusukaali|72g
+||Savulohi|170g
+|13.00|Vihreä tee|3dl
+||Hunaja|1tl
+|10-14.20|0.7l vesi
+|14.30|Fazer juustosämpylä|70g
+||Levite|8g
+||Kurkku|30g
+||"juusto"|11g|https://www.foodie.fi/entry/porlammin-vege-plus-250g/6416961002436
+||Paistettu kananmuna|2 kpl
