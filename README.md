@@ -3,152 +3,23 @@
 |Klo|Ruokalaji, juoma ja valmistustapa|Annoksen koko|Harjoitus|
 |---|---|---|---|
 |6.40|||Aamulenkki kuntopyörällä 30min
-|7.30|Vesi|2dl|
+|8.45|Vesi|2dl|
 ||MSM|4g|
 ||Kreatiini|5g|
-||Berocca|1 kpl|
-||Tuorepuuro:
-||Kaurahiutale| 18g
-||Chiasiemeniä | 13g
-||Tummaa kaakaojauhetta | 3g
-||Banaani | 45g (0,5kpl)
-||Appelsiini | 50g (0,5 kpl)
+||Puuro:
+||Kaurahiutale| 33g
+||Vesi|2dl
 ||Maca-jauhe | 2g
-||Oatly kauramaito | 135g
+||Foodin riisiproteiini suklaa | 2 rkl (25g)
+||Lakkahillo|27g
+||Lakka|48g
 ||
-|| Kauraleipä itsetehty | 60g (2 viipaletta)
-|| Levite | 2tl
-|| Salaatti
-|| Tomaatti | 4 siivua
-|| Kurkku | 8 siivua
-|| Violife block "juusto" | 14g
+|| Ruisleipä itsetehty | 45g
+|| Levite (Becel )| 4g
+|| Salaatti|11g
+|| Kurkku | 32g
+|| Violife block "juusto" | 9g
 ||
 || Kahvi 200g
 || Oatly iKaffe 50g
-|6.40-10.40| Vesi | 0.7l
-|11.00|pitaleipä|2 kpl
-||avokado|25g
-||salaatti (kurkku, tomaatti, lehtisalaatti)|150g
-||naudan ulkofilee (grillattu) | 100g
-||sipuli| 10g
-||majoneesi|50g
-|11.30|Vihreä tee|2dl
-||Hunaja|1tl
-|13.00|Vesi|2dl
-||Kreatiini|5g
-|14.15|Porkkana|125g
-||Lanttu|100g
-|10.40-15.15|Vesi|0.7l
-|16.00|||Kuntopyörä vedot 3x3x30sek @ 90%
-|16.45|Riisinuudeli|55g
-||Vesi|275g
-||Kylmäsavulohi|70g
-||Salaatti (porkkana, kirsikkatomaatti, ruustinnan salaatti, parsakaalisilmusalaatti) | 160g
-|18.00|Fazer dallaspulla | 1kpl
-|19.00|Fazer dallapulla| 1kpl
-||Vihreä tee|2dl
-||Hunaja|1tl
-|21.00|Kauraleipä|45g
-||levite|1tl|
-||kylmäsavulohi|25g
-||Valio Oddlygood kauragurtti mango|80g
-||Pellavansiemenrouhe|3g
-||Kaakaonibs|3g
-||Mulperimarja|10g
-|6.45|||Aamulenkki 30min
-|7.40|Vesi|2dl
-||MSM|4g
-||Kreatiini|5g
-||Berocca|1 kpl
-||Tuorepuuro:
-||Kaurahiutale| 18g
-||Chiasiemeniä | 13g
-||Tummaa kaakaojauhetta | 3g
-||Banaani | 45g (0,5kpl)
-||Maca-jauhe | 2g
-||Oatly kauramaito | 165g
-||Vadelma|15g
-||Kauraleipä | 40g
-|| Levite | 1tl
-|| Salaatti
-|| Tomaatti | 4 siivua
-|| Kurkku | 8 siivua
-|| Violife block "juusto" | 13g
-|| Kahvi | 180g
-|| Oatly iKaffe | 80g
-|6.45-10.45|Vesi|0.7l
-|11.30|Kylmäsavulohi|100g
-||Salaatti (porkkana, kirsikkatomaatti, ruustinnan salaatti, parsakaalisilmusalaatti) | 140g
-||Avokado|65g
-||Nuudeli|55g
-||Vesi|200g
-|12.30|Vihreä tee|3dl
-||Hunaja|1tl
-|14.10|Lanttu|215g
-||Porkkana|185g
-|15.45|peruna|115g
-||pikkelöity punakaali|90g|
-||punajuuri-mustapapupyörykkä|185g|
-|17.15|Vesi|2dl
-||Kreatiini|5g
-|17.30|||Käsipuntti
-|19.15|Vesi|2dl
-||Kreatiini|5g
-|19.45|Ruispala|1kpl
-||Kylmäsavulohi|35g
-|10.45-20.00|Vesi|0.7l
-|20.30|Munakas (2 keltuaista, 4 valkuaista)|175g
-|21.45|Kauraleipä|35g
-||Kylmäsavulohi|15g
-|7.30|Vesi|2dl
-||MSM|4g
-||Kreatiini|5g
-||Berocca|1 kpl
-||Tuorepuuro:
-||Kaurahiutale| 18g
-||Chiasiemeniä | 13g
-||Tummaa kaakaojauhetta | 3g
-||Banaani | 45g (0,5kpl)
-||Maca-jauhe | 2g
-||Oatly kauramaito | 160g
-||Vadelma|15g
-||Kauraleipä | 40g
-|| Levite | 1tl
-|| Salaatti
-|| Tomaatti | 4 siivua
-|| Kurkku | 8 siivua
-|| Violife block "juusto" | 11g
-|| Kahvi | 180g
-|| Oatly iKaffe | 70g
-|7.00-10.00|Vesi|0.7l
-|11.30|Punajuuri-mustapapupyörykkä|140g
-||Keitetty peruna|150g
-||Sambal oelek|10g
-||Salaatti (Valkoisia papuja, kirsikkatomaatteja, maissia, ruustinnan salaatti, 2 valkosipulin kynttä, 2rkl punaviinietikka)|180g
-|12.00|Vihreä tee|2dl
-||Hunaja|1tl|
-|10.00-13.00|Vesi|0.7l
-|13.30|Kahvi| 180g
-||Oatly iKaffe | 60g
-|14.30|Porkkana|40g
-|15.45|Pilahvi:
-||Katkarapu|45g
-||Riisi|1dl
-||Kanaliemi|2dl
-||Porkkana|1kpl
-||Pistaasi|15g
-||Valkosipulin kynsi|1kpl
-||Lehtipersilja|0,25 punttia
-||Kevätsipuli|0,5kpl
-||Oat fraiche (Oatly)|35g
-||
-||
-|17.00|Vesi|2dl
-||Kreatiini|5g
-|18.00|||Jalkapuntti
-|13.00-18.30|Vesi|0.7l
-|21.00|Vesi|2dl
-||Kreatiini|5g
-|21.45|Ruispala|1kpl
-||Kylmäsavulohi|30g
-|18.30-21.45|Vesi|0.4l
+|6.40-10.00|Vesi|0.7l
