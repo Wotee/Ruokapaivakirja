@@ -38,3 +38,13 @@
 ||Kurkku|30g
 ||"juusto"|11g|https://www.foodie.fi/entry/porlammin-vege-plus-250g/6416961002436
 ||Paistettu kananmuna|2 kpl
+|17.30|Juustoportti sour oat|100g
+||Rypsiöljy|2.5g
+||Hunaja|1tl
+||Basilika|18g
+||Leivitetty muikku|100g
+|14.20-18.30|Vesi|0.7l
+|19|||Jalkapuntti
+|18.30-21|Vesi|0.7l
+|21.50|Aito kauravälipala mustikka|140g
+||Foodin riisiproteiini suklaa|3rkl
