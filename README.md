@@ -15,7 +15,7 @@
 ||Lakka|48g
 ||
 || Ruisleipä itsetehty | 45g
-|| Levite (Becel )| 4g
+|| Levite (Becel Oliivi 38%)| 4g
 || Salaatti|11g
 || Kurkku | 32g
 || Violife block "juusto" | 9g
