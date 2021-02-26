@@ -43,7 +43,7 @@
 ||Hunaja|1tl
 ||Basilika|18g
 ||Kurkku|120g
-||Leivitetty muikku|100g
+||Leivitetty, paistettu muikku|100g
 |14.20-18.30|Vesi|0.7l
 |19|||Jalkapuntti
 |18.30-21|Vesi|0.7l
