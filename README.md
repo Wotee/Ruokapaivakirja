@@ -44,6 +44,12 @@
 ||Basilika|18g
 ||Kurkku|120g
 ||Leivitetty, paistettu muikku|100g
+||Uunikasvikset:
+||Bataatti |110g
+||Munakoiso |68g
+||Porkkana |65g
+||Keltajuuri |92g
+||Ruusukaali|72g
 |14.20-18.30|Vesi|0.7l
 |19|||Jalkapuntti
 |18.30-21|Vesi|0.7l
